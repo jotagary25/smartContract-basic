@@ -1,0 +1,15 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Maltipoo"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Mocha"
+    }
+  ],
+  "description": "nft1 fort agroblockchain",
+  "image": "ipfs://Qmb1k7oanMZhWcs4XbcNxpt2csPskdFiSC7E5PXhBmdi7n",
+  "name": "Ramses"
+}
