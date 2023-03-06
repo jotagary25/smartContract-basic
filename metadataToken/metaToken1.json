@@ -1,0 +1,28 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Rendmiento esperado",
+      "value": "5%"
+    },
+    {
+      "trait_type": "Tipo de activo",
+      "value": "Inversión NFT"
+    },
+    {
+      "trait_type": "País",
+      "value": "Colombia"
+    },
+    {
+      "trait_type": "Sector",
+      "value": "CriptoInversión"
+    },
+    {
+      "trait_type": "Precio",
+      "value": "50 USDT"
+    }
+  ],
+  "categoria": "Proyecto 1",
+  "description": "nft1 test for agroblockchain",
+  "image": "ipfs://Qmcr3uTs1LJhkb6BKRWdiPE47H977uvm4Tjfhw6YyxqYX6",
+  "name": "tokenTest1"
+}

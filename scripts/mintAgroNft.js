@@ -57,4 +57,7 @@ async function mintNFT(tokenURI) {
     });
 }
 
-mintNFT("ipfs://QmTC2AmEEwMLZUpCZaVUcxyoMRry7Cio7tnZj4LxrZS3MC");
+// mintNFT("ipfs://QmTC2AmEEwMLZUpCZaVUcxyoMRry7Cio7tnZj4LxrZS3MC");
+// mintNFT("ipfs://QmWjLJuu5zgZuKCQRdgQfDQoTKZqsdrN1vrdrf4CS86igy");
+mintNFT("ipfs://QmPzssq4tT9mkgw5gKTXJ9iAxJZxxZZoJFNhNEsAQ22e1m");
+// mintNFT("ipfs://QmaYBwVF6aRPWsqQZYkWbW2hVoDb5YwBkcbWQU9W6huokP"); //no enviando aún
