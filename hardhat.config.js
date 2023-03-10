@@ -11,7 +11,7 @@ module.exports = {
   networks: {
     bsc: {
       url: RPC_bscTestnet,
-      accounts: [`0x${privateKey_ContractOwner}`],
+      accounts: [`${privateKey_ContractOwner}`],
     },
   },
 };
